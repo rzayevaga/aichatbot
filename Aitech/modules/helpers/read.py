@@ -2,7 +2,7 @@ from config import OWNER_USERNAME, SUPPORT_GRP
 from Aitech import Rzayev
 
 START = f"""
-**๏ ʜᴇʏ, ɪ ᴀᴍ [{Branded.name}](t.me/{Branded.username})**
+**๏ ʜᴇʏ, ɪ ᴀᴍ [{Rzayev.name}](t.me/{Rzayev.username})**
 **➻ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ**
 **──────────────**
 **➻ Söhbət çatında aktivləşdirmək üçün /chatbot [ᴏɴ/ᴏғғ]**
