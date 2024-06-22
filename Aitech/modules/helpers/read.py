@@ -8,10 +8,10 @@ START = f"""
 **➻ Söhbət çatında aktivləşdirmək üçün /chatbot [ᴏɴ/ᴏғғ]**
 <b>||๏ Kömək menyusu /help.||</b>
 """
-
+are given below
 HELP_READ = f"""
 <u>**Əmrlər {Rzayev.name}**</u>
-<u>**ᴀʀᴇ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ!**</u>
+<u>**ᴀşağıda**</u>
 **Bütün Əmrlər / ilə istifade olunur**
 **──────────────**
 <b>||©️ @{OWNER_USERNAME}||</b>
