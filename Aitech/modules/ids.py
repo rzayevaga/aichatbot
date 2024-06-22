@@ -35,7 +35,7 @@ async def getid(client, message):
         not getattr(reply, "empty", True)
         and not message.forward_from_chat
         and not reply.sender_chat
-    ): Replied User ID
+    ):
         text += f"**[Cavab verən mesaj ID:]({reply.link})** `{reply.id}`\n"
         text += f"**[Cavab verən istifadəçi ID:](tg://user?id={reply.from_user.id})** `{reply.from_user.id}`\n\n"
 
