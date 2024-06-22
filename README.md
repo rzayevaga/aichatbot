@@ -5,7 +5,8 @@
 
 <p align="center">
 
-<img src="https://te.legra.ph/file/2e2f78610814092d61103.jpg">
+<svg
+src="https://github.com/rzayevaga/aichatbot/blob/main/aichatbot.svg">
 </p>
 
 # About
