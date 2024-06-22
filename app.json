@@ -1,9 +1,9 @@
 {
   "name": "𝐀𝐢- ChatBot",
   "description": "A telegram chatting userbot",
-  "logo": "https://te.legra.ph/file/e3c1ae96d329acd2d99cf.jpg",
+  "logo": "https://graph.org/file/ff8fa5df03aecffd1b010.jpg",
   "keywords": [
-    "Ai-Chatbot",
+    "AiChatbot",
     "mongodb",
     "python",
     "pyrogram"
