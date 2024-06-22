@@ -5,8 +5,8 @@
 
 <p align="center">
 
-<svg
-src="https://github.com/rzayevaga/aichatbot/blob/main/aichatbot.svg">
+<img
+src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
 </p>
 
 # About
