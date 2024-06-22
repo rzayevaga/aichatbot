@@ -39,7 +39,7 @@ async def start(_, m: Message):
         await umm.delete()
         await m.reply_photo(
             photo=random.choice(IMG),
-            caption=f"""**๏ Salam, Mən {Rzayev.name}**\n**➻ Ai-ChatBot.**\n**──────────────**\n**➻Aktivləşdirmək üçün Söhbət Çatında yazın. /chatbot [ᴏɴ/ᴏғғ]**\n<b>||๏ Kömək üçün /help||</b>""",
+            caption=f"""**๏ Salam, Xoş Gəldin**\n**➻ 👀.**\n**──────────────**\n**Səni gördüyümə sevindim 🥹🌹</b>""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         )
         await add_served_user(m.from_user.id)
