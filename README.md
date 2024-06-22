@@ -9,10 +9,6 @@
 src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
 </p>
 
-# About
-
-𝗔𝗻 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗜𝗱 𝗖𝗵𝗮𝘁𝗯𝗼𝘁 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲.
-
 ## How To Host
 
 𝗧𝗵𝗲 𝗲𝗮𝘀𝗶𝗲𝘀𝘁 𝘄𝗮𝘆 𝘁𝗼 𝗱𝗲𝗽𝗹𝗼𝘆 𝘁𝗵𝗶𝘀 𝗕𝗼𝘁
@@ -21,15 +17,15 @@ src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
 
 ### Deploy To Heroku 🚀
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BRANDED-AI"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/rzayevaga/aitchatbot> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 ## Reach Me
 
-<p align="center"><a href="https://t.me/BRANDEDKING82"> <img src="https://img.shields.io/badge/Telegram%20Id-black?style=for-the-badge&logo=Telegram" width="200" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/aitbots"> <img src="https://img.shields.io/badge/Telegram%20Id-black?style=for-the-badge&logo=Telegram" width="200" height="38.45"/></a></p>
 
 ## Support 
 
-<p align="center"><a href="https://t.me/BRANDED_WORLD"> <img src="https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p> 
+<p align="center"><a href="https://t.me/aitsupport"> <img src="https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p> 
 
 <p align="center">
 <a href="https://t.me/BRANDRD_BOT"> <img src="https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p> 
