@@ -9,7 +9,7 @@ from Aitech.modules import ALL_MODULES
 
 async def anony_boot():
     try:
-        await Branded.start()
+        await Rzayev.start()
     except Exception as ex:
         LOGGER.error(ex)
         quit(1)
