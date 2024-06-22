@@ -1,0 +1,42 @@
+{
+  "name": "𝐀𝐢- ChatBot",
+  "description": "A telegram chatting userbot",
+  "logo": "https://te.legra.ph/file/e3c1ae96d329acd2d99cf.jpg",
+  "keywords": [
+    "Ai-Chatbot",
+    "mongodb",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "repository": "https://github.com/rzayevaga/aichatbot",
+  "env": {
+    "API_ID": {
+      "description": "Get this value from my.telegram.org/apps.",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org/apps.",
+      "required": true,
+      "value": ""
+    },
+    "STRING_SESSION": {
+      "description": "A Pyrogram v2 String session",
+      "required": true,
+      "value": ""
+    },
+    "MONGO_URL": {
+      "description": "Get a mongodb url from https://cloud.mongodb.com.",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "User id of the user who will known as owner of the bot.",
+      "required": true,
+      "value": "1924693109"
+    }
+  }
+}
