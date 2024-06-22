@@ -2,13 +2,12 @@ from config import OWNER_USERNAME, SUPPORT_GRP
 from Aitech import Rzayev
 
 START = f"""
-**๏ ʜᴇʏ, ɪ ᴀᴍ [{Rzayev.name}](t.me/{Rzayev.username})**
-**➻ ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ**
+**๏ Salam, Mən [{Rzayev.name}](t.me/{Rzayev.username})**
+**➻ Qrup üçün ağıllı söhbət bot'u**
 **──────────────**
 **➻ Söhbət çatında aktivləşdirmək üçün /chatbot [ᴏɴ/ᴏғғ]**
-<b>||๏ Kömək menyusu /help.||</b>
 """
-are given below
+
 HELP_READ = f"""
 <u>**Əmrlər {Rzayev.name}**</u>
 <u>**ᴀşağıda**</u>
