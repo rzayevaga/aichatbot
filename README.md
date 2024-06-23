@@ -9,11 +9,7 @@
 src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
 </p>
 
-## How To Host
 
-𝗧𝗵𝗲 𝗲𝗮𝘀𝗶𝗲𝘀𝘁 𝘄𝗮𝘆 𝘁𝗼 𝗱𝗲𝗽𝗹𝗼𝘆 𝘁𝗵𝗶𝘀 𝗕𝗼𝘁
-
-• 𝐄𝐧𝐭𝐞𝐫 𝐲𝐨𝐮𝐫 MONGO_URL,API_ID, API_HASH And SESSION.
 
 ### Deploy To Heroku 🚀
 
@@ -23,12 +19,10 @@ src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
 
 <p align="center"><a href="https://t.me/aitbots"> <img src="https://img.shields.io/badge/Telegram%20Id-black?style=for-the-badge&logo=Telegram" width="200" height="38.45"/></a></p>
 
-## Support 
+## Channel
 
-<p align="center"><a href="https://t.me/aitsupport"> <img src="https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p> 
+<p align="center"><a href="https://t.me/aitsupport"> <img src="https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p> 
 
-<p align="center">
-<a href="https://t.me/BRANDRD_BOT"> <img src="https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p> 
 
 
 
@@ -39,7 +33,7 @@ src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
 - Get your [Necessary Variables](https://github.com/WCGKING/BRANDED-AI/blob/master/sample.env)
 
 - Upgrade and Update by : sudo apt-get update && sudo apt-get upgrade -y
-- Clone the repository by : git clone https://github.com/WCGKING/BrandedAi && cd BrandedAi
+- Clone the repository by : git clone https://github.com/rzayevaga/aichatbot && cd Aitech
 - Install requirements by : pip3 install -U -r requirements.txt
 - Fill your variables in the env by : vi sample.env
 - Press I on the keyboard for editing env
