@@ -3,12 +3,11 @@
 
 
 
-<p align="center">
 
-<img
-src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
-</p>
-
+  </a>
+  <a href="https://t.me/dmassistant">
+    <img src="https://github.com/rzayevaga/aichatbot/blob/main/aichatbot.svg" width="250">
+  </a><br>
 
 
 ### Deploy To Heroku 🚀
