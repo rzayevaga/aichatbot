@@ -17,7 +17,7 @@ src="https://graph.org/file/ff8fa5df03aecffd1b010.jpg">
  
 ## Reach Me
 
-<p align="center"><a href="https://t.me/aitbots"> <img src="https://img.shields.io/badge/Telegram%20Id-black?style=for-the-badge&logo=Telegram" width="200" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/codmastervip"> <img src="https://img.shields.io/badge/Telegram%20Id-black?style=for-the-badge&logo=Telegram" width="200" height="38.45"/></a></p>
 
 ## Channel
 
