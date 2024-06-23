@@ -23,8 +23,8 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "CAACAgQAAxkBAAEQ245ljYcpjiUzNlnqZayXwYGXQdQUYgAC2Q8AAnsbSFJTlxo",
-    "CAACAgQAAxkBAAEQ245ljYcpjiUzNlnqZayXwYGXQdQUYgAC2Q8AAnsbSFJTlxo",
+    "https://graph.org/file/ff8fa5df03aecffd1b010.jpg",
+    "https://graph.org/file/ff8fa5df03aecffd1b010.jpg",
 ]
 
 
