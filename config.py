@@ -23,9 +23,8 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "https://t.me/addstickers/TheCoin",
-    "https://t.me/addstickers/Webp_14",
-    "https://t.me/addstickers/Webp_14",
+    "CAACAgQAAxkBAAEQ245ljYcpjiUzNlnqZayXwYGXQdQUYgAC2Q8AAnsbSFJTlxo",
+    "CAACAgQAAxkBAAEQ245ljYcpjiUzNlnqZayXwYGXQdQUYgAC2Q8AAnsbSFJTlxo",
 ]
 
 
