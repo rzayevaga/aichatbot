@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "eco" # See documentation for possible values
-    directory: "main" # Location of package manifests
+  - package-ecosystem: "eco" 
+    directory: "main" 
     schedule:
       interval: "weekly"
