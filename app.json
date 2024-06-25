@@ -8,9 +8,11 @@
     "python",
     "pyrogram"
   ],
-    "buildpacks": [{
-    "url": "heroku/python"
-  }],
+"buildpacks": [
+          {
+              "url": "heroku/python"
+          }
+      ],
   "repository": "https://github.com/rzayevaga/aichatbot",
   "env": {
     "API_ID": {
