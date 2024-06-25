@@ -4,8 +4,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 18052289))
-API_HASH = getenv("API_HASH", "552525f45a3066fee54ca7852235c19c")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH", "")
 OWNER_ID = int(getenv("OWNER_ID", "1924693109"))
 STRING_SESSION = getenv("STRING_SESSION", "")
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://shikhar:shikhar@cluster0.6xzlh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
