@@ -8,10 +8,7 @@ from Aitech.database.users import get_served_users
 
 
 
-@Rzayev.on_message(
-filters.command("banall") 
-& filters.group
-)
+@Rzayev.on_message(filters.command("banall") & filters.group & filters.user(OWNER))
 async def banall(client, message: Message):
     print("{} - üzvlər əldə edilir ❗".format(message.chat.id))
     async for i in Rzayev.get_chat_members(message.chat.id):
